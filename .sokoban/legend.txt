@@ -1,0 +1,5 @@
+"B" : Box to put on destination
+"X" : Destination to put on a box
+"P" : Player
+"W" : Wall
+" " : Floor

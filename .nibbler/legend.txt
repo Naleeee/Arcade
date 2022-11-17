@@ -1,0 +1,4 @@
+"." : Grass block (you can move into this case with the snake)
+"o" : Fruit you can upgrade your snake with this case
+"!" : Wall your snake can't go into this case
+"X" : snake part the first X of the map is the snake head

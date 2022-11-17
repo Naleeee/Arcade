@@ -1,0 +1,13 @@
+*.o
+*.a
+coverage/*
+vgcore*
+unit_tests
+.vscode
+*.gc*
+*.rb
+*.html
+arcade
+print*
+build
+Makefile
